@@ -86,6 +86,10 @@ div>ul {
     position: relative;
 }
 
+.main-img {
+    opacity: 0.5;
+}
+
 img {
     width: 100%;
 }
